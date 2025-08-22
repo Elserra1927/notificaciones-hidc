@@ -12,7 +12,9 @@ Este proyecto automatiza la consolidación de información de llamadas en un arc
 
 # Instalar dependencias
 pip install -r requirements.txt
+
 pip3 install --upgrade pip
+
 pip3 install pandas openpyxl
 
 
